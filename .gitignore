@@ -1,0 +1,48 @@
+# Linux temporary files
+*~
+
+# Vim swap files
+.*.swp
+*.swp
+
+# Nano backup files
+*.save
+
+# System logs
+*.log
+
+# Package files
+*.deb
+*.rpm
+
+# Lock files
+*.lock
+
+# Cache directories
+.cache/
+.tmp/
+
+# Trash folder
+.Trash-*
+
+# Mounted devices
+/mnt/*
+/media/*
+
+# SSH keys (security)
+id_rsa
+id_rsa.pub
+
+# Environment files
+.env
+
+# Node modules (if tooling is used later)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
